@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on My Father's Hotel.
+- 🌱 I’m currently learning Everything!
+- 👯 I’m looking to collaborate on Elon Musk!
+- 🤔 I’m looking for help from Allah.
+- 💬 Ask me about anything!
+- 📫 How to reach me: [ShatinTheDeveloper][website]
+- ⚡ Fun fact: I love Google and Stack Overflow when I write code! 
+
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=shafinthedeveloper&card_width=550)](https://github.com/shafinthedeveloper/shafinthedeveloper)
