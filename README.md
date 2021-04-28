@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Elon Musk!
 - 🤔 I’m looking for help from Allah.
 - 💬 Ask me about anything!
-- 📫 How to reach me: [ShatinTheDeveloper][website]
+- 📫 How to reach me: [ShafinTheDeveloper][website]
 - ⚡ Fun fact: I love Google and Stack Overflow when I write code! 
 
 
